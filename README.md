@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/sumit0991/LeetCode/tree/master/0198-house-robber) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Math
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/sumit0991/LeetCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
