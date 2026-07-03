@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/sumit0991/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
 | [0403-frog-jump](https://github.com/sumit0991/LeetCode/tree/master/0403-frog-jump) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
@@ -53,14 +54,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
 ## Stack
 |  |
@@ -70,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sumit0991/LeetCode/tree/master/0316-remove-duplicate-letters) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
