@@ -83,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sumit0991/LeetCode/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sumit0991/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
