@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sumit0991/LeetCode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/sumit0991/LeetCode/tree/master/0403-frog-jump) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumit0991/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1668-maximum-repeating-substring](https://github.com/sumit0991/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sumit0991/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/sumit0991/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit0991/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1668-maximum-repeating-substring](https://github.com/sumit0991/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumit0991/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sumit0991/LeetCode/tree/master/0278-first-bad-version) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/sumit0991/LeetCode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
