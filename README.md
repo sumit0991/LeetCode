@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/sumit0991/LeetCode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/sumit0991/LeetCode/tree/master/0403-frog-jump) |
+| [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumit0991/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1668-maximum-repeating-substring](https://github.com/sumit0991/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Simulation
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/sumit0991/LeetCode/tree/master/1668-maximum-repeating-substring) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
