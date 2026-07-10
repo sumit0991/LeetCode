@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sumit0991/LeetCode/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sumit0991/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
