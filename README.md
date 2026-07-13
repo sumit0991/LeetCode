@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/sumit0991/LeetCode/tree/master/0403-frog-jump) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
+| [0704-binary-search](https://github.com/sumit0991/LeetCode/tree/master/0704-binary-search) |
 | [1288-remove-covered-intervals](https://github.com/sumit0991/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumit0991/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sumit0991/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sumit0991/LeetCode/tree/master/0278-first-bad-version) |
+| [0704-binary-search](https://github.com/sumit0991/LeetCode/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
