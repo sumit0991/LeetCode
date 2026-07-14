@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sumit0991/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0198-house-robber](https://github.com/sumit0991/LeetCode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/sumit0991/LeetCode/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/sumit0991/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/sumit0991/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/sumit0991/LeetCode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/sumit0991/LeetCode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/sumit0991/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/sumit0991/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/sumit0991/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
