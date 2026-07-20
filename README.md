@@ -115,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sumit0991/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/sumit0991/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sumit0991/LeetCode/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sumit0991/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/sumit0991/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## String Matching
 |  |
 | ------- |
