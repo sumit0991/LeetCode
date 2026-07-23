@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/sumit0991/LeetCode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sumit0991/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumit0991/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/sumit0991/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sumit0991/LeetCode/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sumit0991/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sumit0991/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sumit0991/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -152,4 +154,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sumit0991/LeetCode/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
