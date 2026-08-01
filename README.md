@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/sumit0991/LeetCode/tree/master/0403-frog-jump) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/sumit0991/LeetCode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sumit0991/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sumit0991/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/sumit0991/LeetCode/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sumit0991/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumit0991/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sumit0991/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sumit0991/LeetCode/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/sumit0991/LeetCode/tree/master/0403-frog-jump) |
+| [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumit0991/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1668-maximum-repeating-substring](https://github.com/sumit0991/LeetCode/tree/master/1668-maximum-repeating-substring) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/sumit0991/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/sumit0991/LeetCode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
