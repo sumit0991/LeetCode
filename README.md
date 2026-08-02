@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/sumit0991/LeetCode/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sumit0991/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/sumit0991/LeetCode/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/sumit0991/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sumit0991/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/sumit0991/LeetCode/tree/master/1683-invalid-tweets) |
 ## Divide and Conquer
