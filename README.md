@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/sumit0991/LeetCode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/sumit0991/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sumit0991/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumit0991/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sumit0991/LeetCode/tree/master/0877-stone-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/sumit0991/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sumit0991/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sumit0991/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/sumit0991/LeetCode/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sumit0991/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/sumit0991/LeetCode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumit0991/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1668-maximum-repeating-substring](https://github.com/sumit0991/LeetCode/tree/master/1668-maximum-repeating-substring) |
 ## Simulation
@@ -209,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sumit0991/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
