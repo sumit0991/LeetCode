@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumit0991/LeetCode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/sumit0991/LeetCode/tree/master/0046-permutations) |
 | [0198-house-robber](https://github.com/sumit0991/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
 | [0403-frog-jump](https://github.com/sumit0991/LeetCode/tree/master/0403-frog-jump) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sumit0991/LeetCode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/sumit0991/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
