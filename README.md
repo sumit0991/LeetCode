@@ -102,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
+| [3310-remove-methods-from-project](https://github.com/sumit0991/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
+| [3310-remove-methods-from-project](https://github.com/sumit0991/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/sumit0991/LeetCode/tree/master/0046-permutations) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sumit0991/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
