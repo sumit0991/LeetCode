@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sumit0991/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/sumit0991/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/sumit0991/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/sumit0991/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumit0991/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sumit0991/LeetCode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/sumit0991/LeetCode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/sumit0991/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/sumit0991/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit0991/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3731-find-missing-elements](https://github.com/sumit0991/LeetCode/tree/master/3731-find-missing-elements) |
@@ -119,11 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sumit0991/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/sumit0991/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumit0991/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sumit0991/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/sumit0991/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumit0991/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Union-Find
 |  |
