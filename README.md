@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sumit0991/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit0991/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1668-maximum-repeating-substring](https://github.com/sumit0991/LeetCode/tree/master/1668-maximum-repeating-substring) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sumit0991/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sumit0991/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sumit0991/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/sumit0991/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sumit0991/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sumit0991/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3731-find-missing-elements](https://github.com/sumit0991/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
