@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumit0991/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumit0991/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/sumit0991/LeetCode/tree/master/0046-permutations) |
 | [0198-house-robber](https://github.com/sumit0991/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sumit0991/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/sumit0991/LeetCode/tree/master/0392-is-subsequence) |
 ## Database
 |  |
