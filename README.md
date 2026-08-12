@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sumit0991/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sumit0991/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/sumit0991/LeetCode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/sumit0991/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/sumit0991/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sumit0991/LeetCode/tree/master/0912-sort-an-array) |
 | [1288-remove-covered-intervals](https://github.com/sumit0991/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/sumit0991/LeetCode/tree/master/0867-transpose-matrix) |
 | [2079-watering-plants](https://github.com/sumit0991/LeetCode/tree/master/2079-watering-plants) |
 ## Greedy
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sumit0991/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/sumit0991/LeetCode/tree/master/0463-island-perimeter) |
+| [0867-transpose-matrix](https://github.com/sumit0991/LeetCode/tree/master/0867-transpose-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/sumit0991/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 ## Stack
 |  |
